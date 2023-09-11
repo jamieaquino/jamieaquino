@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+🔭 I’m currently working on my Final Year Honours Project at University
+🌱 I’m currently learning HTML, CSS and Javascript
 
 <!--
 **jamieaquino/jamieaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
